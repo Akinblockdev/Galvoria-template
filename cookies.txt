@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-tokomoo-galvoria.webflow.io	TRUE	/	FALSE	1999999999	_cfuvid	Qk7PLlnFeBT6jBVeVlT9H8FR3QUbXo_CsCWVnGGRoWQ-1792793431.4078934-1.0.1.1-dFsCcEH6pMTUBqDmdJYxCqjruVtUtO.EQUBPpluLHLw
-webflow.io	TRUE	/	FALSE	1999999999	SameSite	None
-
